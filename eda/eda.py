@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import altair as alt
-import io
 
 st.title("Анализ данных")
 st.write("Датасет содержит информацию о количестве проданного товара за 5 лет. Необходимо предсказать продажи на 3 месяца вперед.")
